@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konserwator PCZ</string>
+    <string name="choose_folder">Wybierz katalog</string>
+    <string name="change_path">Zmień ścieżkę</string>
+    <string name="update">Aktualizuj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="choose">Wybierz</string>
+    <string name="new_folder">Nowy katalog</string>
+    <string name="delete">Usuń</string>
+    <string name="extensions">Rozszerzenia</string>
+    <string name="error">Błąd</string>
+    <string name="info">Informacja</string>
+    <string name="noNewVersion">Aktualnie nie ma nowszej wersji rozszerzenia Polska Ciasteczkowa Zgoda.</string>
+    <string name="downloadExtract">Pobierz i wypakuj</string>
+    <string name="updated">Rozszerzenie Polska Ciasteczkowa Zgoda zostało zaktualizowane!</string>
+    <string name="downloadedExtracted">Rozszerzenie Polska Ciasteczkowa Zgoda zostało pobrane i rozpakowane!</string>
+    <string name="remaining">Pozostało:</string>
+    <string name="downloading">Pobieranie</string>
+    <string name="canceled">Anulowano</string>
+    <string name="extracting">Wypakowywanie</string>
+    <string name="ready">Gotowe</string>
+    <string name="paused">Zatrzymano</string>
+    <string name="waiting">Czekanie w kolejce</string>
+</resources>

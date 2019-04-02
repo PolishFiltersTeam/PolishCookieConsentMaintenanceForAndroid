@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PCC Maintenance</string>
+    <string name="choose_folder">Choose a folder</string>
+    <string name="change_path">Change path</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Choose</string>
+    <string name="new_folder">New folder</string>
+    <string name="delete">Delete</string>
+    <string name="extensions">Extensions</string>
+    <string name="error">Error</string>
+    <string name="info">Info</string>
+    <string name="noNewVersion">There is currently no newer version of the Polish Cookie Consent extension.</string>
+    <string name="downloadExtract">Download and extract</string>
+    <string name="updated">Polish Cookie Consent extension has been updated!</string>
+    <string name="downloadedExtracted">Polish Cookie Consent extension has been downloaded and extracted!</string>
+    <string name="download_speed_bytes" translatable="false">%1$d B/s</string>
+    <string name="download_speed_kb" translatable="false">%1$s KB/s</string>
+    <string name="download_speed_mb" translatable="false">%1$s MB/s</string>
+    <string name="remaining">Remaining:</string>
+    <string name="download_eta_sec" translatable="false">%1$ds</string>
+    <string name="download_eta_min" translatable="false">%1$dm %2$ds</string>
+    <string name="download_eta_hrs" translatable="false">%1$dh %2$dm %3$ds</string>
+    <string name="downloading">Downloading</string>
+    <string name="canceled">Canceled</string>
+    <string name="extracting">Extracting</string>
+    <string name="ready">Ready</string>
+    <string name="paused">Paused</string>
+    <string name="waiting">Waiting in queue</string>
+</resources>
